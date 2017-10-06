@@ -1,0 +1,118 @@
+// Parametres
+
+$ xnum = "Xnum"
+
+// Content
+
+{{xnum}}. Obligations du sous-traitant vis-à-vis du responsable de traitement
+
+Le sous-traitant s'engage à :
+
+1. traiter les données uniquement pour la ou les seule(s) finalité(s) qui fait/font l’objet de la sous-traitance
+
+2. traiter les données conformément aux instructions documentées du responsable de traitement figurant en annexe du présent contrat. Si le sous-traitant considère qu’une instruction constitue une violation du règlement européen sur la protection des données ou de toute autre disposition du droit de l’Union ou du droit des Etats membres relative à la protection des données, il en informe immédiatement le responsable de traitement. En outre, si le sous-traitant est tenu de procéder à un transfert de données vers un pays tiers ou à une organisation internationale, en vertu du droit de l’Union ou du droit de l’Etat membre auquel il est soumis, il doit informer le responsable du traitement de cette obligation juridique avant le traitement, sauf si le droit concerné interdit une telle information pour des motifs importants d'intérêt public
+
+3. garantir la confidentialité des données à caractère personnel traitées dans le cadre du présent contrat
+
+4. veiller à ce que les personnes autorisées à traiter les données à caractère personnel en vertu du présent contrat :
+ s’engagent à respecter la confidentialité ou soient soumises à une obligation légale appropriée de confidentialité
+ reçoivent la formation nécessaire en matière de protection des données à caractère personnel
+
+5. prendre en compte, s’agissant de ses outils, produits, applications ou services, les principes de protection des données dès la conception et de protection des données par défaut
+
+6. Sous-traitance
+Choisir l’une des deux options Option A (autorisation générale)
+Le sous-traitant peut faire appel à un autre sous-traitant (ci-après, « le sous-traitant ultérieur ») pour mener des activités de traitement spécifiques. Dans ce cas, il informe préalablement et par écrit le responsable de traitement de tout changement envisagé concernant l’ajout ou le remplacement d’autres sous-traitants. Cette information doit indiquer clairement les activités de traitement sous-traitées, l’identité et les coordonnées du sous-traitant et les dates du contrat de sous-traitance. Le responsable de traitement dispose d’un délai minium de [...] à compter de la date de réception de cette information pour présenter ses objections. Cette sous-traitance ne peut être effectuée que si le responsable de traitement n'a pas émis d'objection pendant le délai convenu.
+
+Option B (autorisation spécifique)
+Le sous-traitant est autorisé à faire appel à l’entité [...] (ci-après, le « sous-traitant
+ultérieur ») pour mener les activités de traitement suivantes : [...]
+En cas de recrutement d’autres sous-traitants ultérieurs, le sous-traitant doit recueillir
+l’autorisation écrite, préalable et spécifique du responsable de traitement.
+Quelle que soit l’option (autorisation générale ou spécifique)
+Le sous-traitant ultérieur est tenu de respecter les obligations du présent contrat pour le compte et selon les instructions du responsable de traitement. Il appartient au sous-traitant initial de s’assurer que le sous-traitant ultérieur présente les mêmes garanties suffisantes quant à la mise en œuvre de mesures techniques et organisationnelles appropriées de manière à ce que le traitement réponde aux exigences du règlement européen sur la protection des données. Si le sous-traitant ultérieur ne remplit pas ses obligations en matière de protection des données, le sous-traitant initial demeure pleinement responsable devant le responsable de traitement de l’exécution par l’autre sous-traitant de ses obligations.
+
+7. Droit d’information des personnes concernées
+Choisir l’une des deux options
+Option A
+Il appartient au responsable de traitement de fournir l’information aux personnes concernées par les opérations de traitement au moment de la collecte des données.
+Option B
+Le sous-traitant, au moment de la collecte des données, doit fournir aux personnes concernées par les opérations de traitement l’information relative aux traitements de données qu’il réalise. La formulation et le format de l’information doit être convenue avec le responsable de traitement avant la collecte de données.
+
+8. Exercice des droits des personnes
+Dans la mesure du possible, le sous-traitant doit aider le responsable de traitement à s’acquitter de son obligation de donner suite aux demandes d’exercice des droits des personnes concernées : droit d’accès, de rectification, d’effacement et d’opposition, droit à la limitation du traitement, droit à la portabilité des données, droit de ne pas faire l’objet d’une décision individuelle automatisée (y compris le profilage).
+Choisir l’une des deux options
+Option A
+Lorsque les personnes concernées exercent auprès du sous-traitant des demandes d’exercice de leurs droits, le sous-traitant doit adresser ces demandes dès réception par courrier électronique à [...] (indiquer un contact au sein du responsable de traitement).
+Option B
+Le sous-traitant doit répondre, au nom et pour le compte du responsable de traitement et dans les délais prévus par le règlement européen sur la protection des données aux demandes des personnes concernées en cas d’exercice de leurs droits, s’agissant des données faisant l’objet de la sous-traitance prévue par le présent contrat.
+
+9. Notification des violations de données à caractère personnel
+Le sous-traitant notifie au responsable de traitement toute violation de données à caractère personnel dans un délai maximum de [...] heures après en avoir pris connaissance et par le moyen suivant [...]. Cette notification est accompagnée de toute documentation utile afin de permettre au responsable de traitement, si nécessaire, de notifier cette violation à l’autorité de contrôle compétente.
+
+Option possible
+Après accord du responsable de traitement, le sous-traitant notifie à l’autorité de contrôle compétente (la CNIL), au nom et pour le compte du responsable de traitement, les violations de données à caractère personnel dans les meilleurs délais et, si possible, 72 heures au plus tard après en avoir pris connaissance, à moins que la violation en question ne soit pas susceptible d’engendrer un risque pour les droits et libertés des personnes physiques.
+La notification contient au moins :
+ la description de la nature de la violation de données à caractère personnel y compris, si possible, les catégories et le nombre approximatif de personnes concernées par la violation et les catégories et le nombre approximatif d'enregistrements de données à caractère personnel concernés ;
+ le nom et les coordonnées du délégué à la protection des données ou d'un autre point de contact auprès duquel des informations supplémentaires peuvent être obtenues ;
+ la description des conséquences probables de la violation de données à caractère personnel ;
+ la description des mesures prises ou que le responsable du traitement propose de prendre pour remédier à la violation de données à caractère personnel, y compris, le cas échéant, les mesures pour en atténuer les éventuelles conséquences négatives.
+Si, et dans la mesure où il n’est pas possible de fournir toutes ces informations en même temps, les informations peuvent être communiquées de manière échelonnée sans retard indu.
+Après accord du responsable de traitement, le sous-traitant communique, au nom et pour le compte du responsable de traitement, la violation de données à caractère personnel à la personne concernée dans les meilleurs délais, lorsque cette violation est susceptible d'engendrer un risque élevé pour les droits et libertés d'une personne physique.
+La communication à la personne concernée décrit, en des termes clairs et simples, la nature de la violation de données à caractère personnel et contient au moins
+ la description de la nature de la violation de données à caractère personnel y compris, si possible, les catégories et le nombre approximatif de personnes concernées par la violation et les catégories et le nombre approximatif d'enregistrements de données à caractère personnel concernés ;
+ le nom et les coordonnées du délégué à la protection des données ou d'un autre point de contact auprès duquel des informations supplémentaires peuvent être obtenues ;
+ la description des conséquences probables de la violation de données à caractère personnel ;
+ la description des mesures prises ou que le responsable du traitement propose de prendre pour remédier à la violation de données à caractère personnel, y compris, le cas échéant, les mesures pour en atténuer les éventuelles conséquences négatives.
+
+10. Aide du sous-traitant dans le cadre du respect par le responsable de traitement de ses obligations
+Le sous-traitant aide le responsable de traitement pour la réalisation d’analyses d’impact relative à la protection des données.
+Le sous-traitant aide le responsable de traitement pour la réalisation de la consultation préalable de l’autorité de contrôle.
+
+11. Mesures de sécurité
+Le sous-traitant s’engage à mettre en œuvre les mesures de sécurité suivantes : [
+ la pseudonymisation et le chiffrement des données à caractère personnel
+
+]
+Le sous-traitant s’engage à mettre en œuvre les mesures de sécurité prévues par [code de
+conduite, certification]. [
+]
+
+12. Sort des données
+Au terme de la prestation de services relatifs au traitement de ces données, le sous-traitant
+s’engage à :
+Au choix des parties :
+ détruire toutes les données à caractère personnel ou
+ à renvoyer toutes les données à caractère personnel au responsable de traitement ou
+ à renvoyer les données à caractère personnel au sous-traitant désigné par le responsable de traitement
+Le renvoi doit s’accompagner de la destruction de toutes les copies existantes dans les systèmes d’information du sous-traitant. Une fois détruites, le sous-traitant doit justifier par écrit de la destruction.
+
+13. Délégué à la protection des données
+Le sous-traitant communique au responsable de traitement le nom et les coordonnées de son délégué à la protection des données, s’il en a désigné un conformément à l’article 37 du règlement européen sur la protection des données
+
+14. Registre des catégories d’activités de traitement
+Le sous-traitant déclare tenir par écrit un registre de toutes les catégories d’activités de
+traitement effectuées pour le compte du responsable de traitement comprenant :
+ le nom et les coordonnées du responsable de traitement pour le compte duquel il agit, des éventuels sous-traitants et, le cas échéant, du délégué à la protection des données;
+ les catégories de traitements effectués pour le compte du responsable du traitement;
+ le cas échéant, les transferts de données à caractère personnel vers un pays tiers ou à une organisation internationale, y compris l'identification de ce pays tiers ou de cette organisation internationale et, dans le cas des transferts visés à l'article 49, paragraphe 1, deuxième alinéa du règlement européen sur la protection des données, les documents attestant de l'existence de garanties appropriées;
+Décrire les mesures techniques et organisationnelles garantissant un niveau de sécurité
+ adapté au risque, y compris, entre autres
+   les moyens permettant de garantir la confidentialité, l'intégrité, la disponibilité et la
+ résilience constantes des systèmes et des services de traitement;
+  lesmoyenspermettantderétablirladisponibilitédesdonnéesàcaractèrepersonnelet
+ l'accès à celles-ci dans des délais appropriés en cas d'incident physique ou technique;
+ une procédure visant à tester, à ’analyser et à ’évaluer régulièrement l'efficacité des
+ mesures techniques et organisationnelles pour assurer la sécurité du traitement
+   Dans la mesure où l’article 32 du règlement européen sur la protection des données prévoit
+ que la mise en œuvre des mesures de sécurité incombe au responsable du traitement et au sous-traitant, il est recommandé de déterminer précisément les responsabilités de
+ chacune des parties au regard des mesures à mettre en œuvre
+ dans la mesure du possible, une description générale des mesures de sécurité techniques et organisationnelles, y compris entre autres, selon les besoins :
+o la pseudonymisation et le chiffrement des données à caractère personnel;
+o des moyens permettant de garantir la confidentialité, l'intégrité, la disponibilité et
+la résilience constantes des systèmes et des services de traitement;
+o des moyens permettant de rétablir la disponibilité des données à caractère personnel et l'accès à celles-ci dans des délais appropriés en cas d'incident physique ou technique;
+o une procédure visant à tester, à analyser et à évaluer régulièrement l'efficacité des mesures techniques et organisationnelles pour assurer la sécurité du traitement.
+
+15. Documentation
+Le sous-traitant met à la disposition du responsable de traitement la documentation nécessaire pour démontrer le respect de toutes ses obligations et pour permettre la réalisation d'audits, y compris des inspections, par le responsable du traitement ou un autre auditeur qu'il a mandaté, et contribuer à ces audits.

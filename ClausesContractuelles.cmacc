@@ -1,0 +1,52 @@
+// Règlement européen sur la protection des données personnelles - Guide du sous-traitant - Edition septembre 2017 - exemples de clauses contractuelles fournies par la CNIL
+
+// Parametres
+
+// Ossature du document
+
+
+// Fichiers appeles
+
+$ numero_Section_Object = "I"
+
+$ numero_Section_Description_Du_Traitement = "II"
+
+$ numero_Section_Duree_Du_Contrat = "III"
+
+$ numero_Section_Obligations_Du_Sous_Traitant = "IV"
+
+$ numero_Section_Obligations_Du_Responsable_De_Traitement = "V"
+
+
+$ intro = [./Intro.cmacc]
+
+$ section_Objet = [./SectionObjet.cmacc]
+$ section_Objet.xnum = numero_Section_Object
+
+$ section_Description_Du_Traitement = [./SectionDescriptionDuTraitement.cmacc]
+$ section_Description_Du_Traitement.xnum = numero_Section_Description_Du_Traitement
+
+$ section_Duree_Du_Contrat = [./SectionDureeDuContrat.cmacc]
+$ section_Duree_Du_Contrat.xnum = numero_Section_Duree_Du_Contrat
+
+
+$ section_Obligations_Du_Soustraitant = [./SectionObligationsDuSousTraitant.cmacc]
+$ section_Obligations_Du_Sous_Traitant.xnum = numero_Section_Obligations_Du_Sous_Traitant
+
+$ section_Obligations_Du_Responsable_De_Traitement = [./SectionObligationsDuResponsableDeTraitement.cmacc]
+$ section_Obligations_Du_Responsable_De_Traitement.xnum = numero_Section_Obligations_Du_Responsable_De_Traitement
+
+
+// Content
+
+{{intro}}
+
+{{section_Objet}}
+
+{{section_Description_Du_Traitement}}
+
+{{section_Duree_Du_Contrat}}
+
+{{section_Obligations_Du_Sous_Traitant}}
+
+{{section_Obligations_Du_Responsable_De_Traitement}}
