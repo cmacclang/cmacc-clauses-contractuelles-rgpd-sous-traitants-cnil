@@ -2,8 +2,12 @@
 
 $ xnum = "Xnum"
 
+$ date_De_Debut_De_Contrat_DDMMYYY = "...indiquer la date de debut de contrat..."
+
+$ duree_Du_Contrat = "...indiquer la duree du contrat..."
+
 // Content
 
 {{xnum}}. Durée du contrat
 
-Le présent contrat entre en vigueur à compter du [...] pour une durée de [...].
+Le présent contrat entre en vigueur à compter du {{date_De_Debut_De_Contrat_DDMMYYY}} pour une durée de {{duree_Du_Contrat}}.

@@ -2,16 +2,28 @@
 
 $ xnum = "Xnum"
 
+$ liste_Des_Services_Fournis = "...indiquer la Liste des Services Fournis par le sous-traitant..."
+
+$ nature_Des_Operations_Realisees = "...indiquer la nature des operations realisees par le sous-traitant..."
+
+$ finalite_Du_Traitement = "...indiquer la ou les finalite(s) du traitement..."
+
+$ liste_Des_Donnees_Traitees = "...indiquer la liste des donneés à caractère personel traitées..."
+
+$ liste_Des_Categories_De_Personnes_Concernees = "...indiquer les categories de personnes concernees..."
+
+$ liste_Des_Informations_Fournies = "...indiquer la liste des informations fournies au sous-traitant..."
+
 // Content
 
 {{xnum}}. Description du traitement faisant l’objet de la sous-traitance
 
-Le sous-traitant est autorisé à traiter pour le compte du responsable de traitement les données à caractère personnel nécessaires pour fournir le ou les service(s) suivant(s) [...].
+Le sous-traitant est autorisé à traiter pour le compte du responsable de traitement les données à caractère personnel nécessaires pour fournir le ou les service(s) suivant(s) {{liste_Des_Services_Fournis}}.
 
-La nature des opérations réalisées sur les données est [...]. La ou les finalité(s) du traitement sont [...].
+La nature des opérations réalisées sur les données est {{nature_Des_Operations_Realisees}}. La ou les finalité(s) du traitement sont {{finalite_Du_Traitement}}.
 
-Les données à caractère personnel traitées sont [...].
+Les données à caractère personnel traitées sont {{liste_Des_Donnees_Traitees}}.
 
-Les catégories de personnes concernées sont [...].
+Les catégories de personnes concernées sont {{liste_Des_Categories_De_Personnes_Concernees}}.
 
-Pour l’exécution du service objet du présent contrat, le responsable de traitement met à la disposition du sous-traitant les informations nécessaires suivantes [...].
+Pour l’exécution du service objet du présent contrat, le responsable de traitement met à la disposition du sous-traitant les informations nécessaires suivantes {{liste_Des_Informations_Fournies}}.

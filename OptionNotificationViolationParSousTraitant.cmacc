@@ -1,0 +1,7 @@
+// Option possible
+
+$ option_Notification_Violation_Par_Sous_Traitant_Y = [./ListeContenuNotificationViolation.cmacc]
+
+$ option_Notification_Violation_Par_Sous_Traitant_N = ""
+
+$ option_Notification_Violation_Par_Sous_Traitant_YN = "...indiquer le sous-traitant peut notifier directement les personnes concernees..."

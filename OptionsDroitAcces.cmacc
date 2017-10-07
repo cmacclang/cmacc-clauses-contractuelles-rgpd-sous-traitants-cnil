@@ -1,0 +1,11 @@
+// Parameters
+
+$ contact_Demande_Droit_Acces_Responsable_Traitement = "...indiquer un contact au sein du responsable de traitement pour les demandes d'acces..."
+
+// Liste d'options
+
+$ option_Sous_Traitant_Transfert_Demande_Acces = "Lorsque les personnes concernées exercent auprès du sous-traitant des demandes d’exercice de leurs droits, le sous-traitant doit adresser ces demandes dès réception par courrier électronique à {{contact_Demande_Droit_Acces_Responsable_Traitement}}."
+
+$ option_Sous_Traitant_Repond_Demande_Acces = "Le sous-traitant doit répondre, au nom et pour le compte du responsable de traitement et dans les délais prévus par le règlement européen sur la protection des données aux demandes des personnes concernées en cas d’exercice de leurs droits, s’agissant des données faisant l’objet de la sous-traitance prévue par le présent contrat."
+
+$ option_Droit_Acces_Choisie = "...choisir une option en cas de demande d'acces..."

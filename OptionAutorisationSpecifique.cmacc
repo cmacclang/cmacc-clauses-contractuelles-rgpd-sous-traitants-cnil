@@ -1,0 +1,14 @@
+// Parameters
+
+$ nom_Du_Sous_Traitant_Ulterieur = "...indiquer le nom du sous-traitant ulterieur autorise..."
+
+$ liste_Des_Activites_De_Traitements_Sous_Traitees = "...indiquer la liste des activites de traitement qui peuvent etre sous-traitees par le sous-traitant..."
+
+// Content
+
+Le sous-traitant est autorisé à faire appel à l’entité {{nom_Du_Sous_Traitant_Ulterieur}} (ci-après, le « sous-traitant ultérieur ») pour mener les activités de traitement suivantes : {{liste_Des_Activites_De_Traitements_Sous_Traitees}}
+
+En cas de recrutement d’autres sous-traitants ultérieurs, le sous-traitant doit recueillir
+l’autorisation écrite, préalable et spécifique du responsable de traitement.
+
+Le sous-traitant ultérieur est tenu de respecter les obligations du présent contrat pour le compte et selon les instructions du responsable de traitement. Il appartient au sous-traitant initial de s’assurer que le sous-traitant ultérieur présente les mêmes garanties suffisantes quant à la mise en œuvre de mesures techniques et organisationnelles appropriées de manière à ce que le traitement réponde aux exigences du règlement européen sur la protection des données. Si le sous-traitant ultérieur ne remplit pas ses obligations en matière de protection des données, le sous-traitant initial demeure pleinement responsable devant le responsable de traitement de l’exécution par l’autre sous-traitant de ses obligations.

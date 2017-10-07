@@ -1,0 +1,7 @@
+// Liste d'options
+
+$ responsable_De_Traitement_Fourni = "Il appartient au responsable de traitement de fournir l’information aux personnes concernées par les opérations de traitement au moment de la collecte des données."
+
+$ sous_Traitant_Fourni = "Le sous-traitant, au moment de la collecte des données, doit fournir aux personnes concernées par les opérations de traitement l’information relative aux traitements de données qu’il réalise. La formulation et le format de l’information doit être convenue avec le responsable de traitement avant la collecte de données."
+
+$ option_Droit_Information_Choisie = "...indiquer qui doit fournir l'information aux personnes concernees..."

@@ -1,0 +1,21 @@
+// Parametres
+
+$ document_Reference_Mesure_Securite = "...indiquer le document de reference pour les mesures de securite - code de conduite/certification..."
+
+$ option_Mesure_Securite_Simple = "Le sous-traitant s’engage à mettre en œuvre les mesures de sécurité suivantes :" 
+
+$ option_Mesure_Securite_Reference = "Le sous-traitant s’engage à mettre en œuvre les mesures de sécurité prévues par {{document_Reference_Mesure_Securite}}."
+
+$ option_Mesure_Securite_Choisie = "... indiquer une option pour la liste des mesures de securite du sous-traitant..."
+
+// fichiers appeles
+
+$ liste_Mesures_De_Securite_Sous_Traitant = [./ListeMesuresDeSecuriteSousTraitant.cmacc]
+
+// Content
+
+{{option_Mesure_Securite_Choisie}}
+
+{{liste_Mesures_De_Securite_Sous_Traitant.pseudonymisation}}
+
+ 

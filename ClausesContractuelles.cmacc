@@ -35,6 +35,7 @@ $ section_Obligations_Du_Sous_Traitant.xnum = numero_Section_Obligations_Du_Sous
 
 $ section_Obligations_Du_Responsable_De_Traitement = [./SectionObligationsDuResponsableDeTraitement.cmacc]
 $ section_Obligations_Du_Responsable_De_Traitement.xnum = numero_Section_Obligations_Du_Responsable_De_Traitement
+$ section_Obligations_Du_Responsable_De_Traitement.numero_Section_Description_Du_Traitement = numero_Section_Description_Du_Traitement
 
 
 // Content

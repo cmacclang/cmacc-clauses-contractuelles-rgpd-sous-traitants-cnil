@@ -1,0 +1,9 @@
+// Parameters
+
+// Liste d'options
+
+$ autorisation_Generale = [./OptionAutorisationGenerale.cmacc]
+
+$ autorisation_Specifique = [./OptionAutorisationSpecifique.cmacc]
+
+$ option_Autorisation_Choisie = "...choisir une option de sous-traitance..."
