@@ -1,6 +1,29 @@
-[...], situé à [...] et représenté par [...] (ci-après, « le responsable de traitement»)
+// Parameters
+
+$ nom_Responsable_Traitement = "...indiquer le nom du responsable de traitement..."
+
+$ adresse_Responsable_Traitement = "...indiquer l'adresse du responsable de traitement..."
+
+$ representant_Responsable_Traitement = "...indiquer le nom du representant du responsable de traitement..."
+
+$ nom_Sous_Traitant = "...indiquer le nom du sous-traitant..."
+
+$ adresse_Sous_Traitant = "...indiquer l'adresse du sous-traitant..."
+
+$ representant_Sous_Traitant = "...indiquer le nom du representant du sous-traitant..."
+
+
+// Content
+
+ENTRE
+
+{{nom_Responsable_Traitement}}, situé à {{adresse_Responsable_Traitement}} et représenté par {{representant_Responsable_Traitement}} 
+
+(ci-après, « le responsable de traitement»)
 d'une part,
    
 ET
-[...], situé à [...] et représenté par [...]
+
+{{nom_Sous_Traitant}}, situé à {{adresse_Sous_Traitant}} et représenté par {{representant_Sous_Traitant}}
+
 (ci-après, « le sous-traitant») d’autre part,
