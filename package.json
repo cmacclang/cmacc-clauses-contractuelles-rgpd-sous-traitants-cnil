@@ -1,0 +1,9 @@
+{
+  "name": "cmacc-clauses-contractuelles-rgpd-sous-traitants-cnil",
+  "version": "1.0.1",
+  "description": "exemple de clauses contractuelles tire du guide RGPD sous-traitant publie par la CNIL en octobre 2017",
+  "main": "index.js",
+  "repository": "https://github.com/cmacclang/cmacc-clauses-contractuelles-rgpd-sous-traitants-cnil.git",
+  "author": "Marc Dangeard <marc@dangeard.com>",
+  "license": "MIT"
+}
